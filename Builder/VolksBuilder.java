@@ -1,12 +1,3 @@
-/*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-	*/
 
 //Classe Builder do tipo "Volkswagen" de objeto do tipo Carro, aqui atribúi valores específicos que esse tipo possúi para os atributos da classe que do qual o tipo dela deriva(aqui sendo CarroBuilder.java e CarroProduct.java). Essa classe "Build/Constrói" carros Volkswagen, atribuindo em seus atributos os valores que quero que sejam específicos para objetos do tipo Volkswagen.
 public class VolksBuilder extends CarroBuilder {
