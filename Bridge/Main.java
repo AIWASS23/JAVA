@@ -1,12 +1,5 @@
-/*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-  * *Comentários: Código implementando o PP do tipo "Bridge"
+/**********************************************************************************************
+  * *Comentários: "Bridge"
   *********************************************************************************************
   * *Obs. Esse PP é de forma "simples" sobre preferir a "composição sobre herança". Detalhes de implementação são empurrados de uma hierarquia, para outro objeto com uma hierarquia separada. Aqui isso pode ser visto no código implementado usando de múltiplas classe que implementam "Janelas" de GUI's, algumas saõ genéricas (Como as Janelas de: Aviso, Dialogo) e herdam de uma hierarquia que vem da classe "JanelaAbstrata.java", enquanto outras tem suas próprias especificações (Como as: Linux e Windows.) Que HERDAM da hierarquia da classe "JanelaImplementada.java". Aqui, não existe,uma classe que usamos parafa fazer o método "Bridge", como já foi visto em outros códigos de PP's que mostrei anteriormente, aqui o método está nessa preferência pela "composição sobre herança".
   *********************************************************************************************
@@ -21,7 +14,7 @@ class Main {
 
     System.out.println(" ");
     System.out.println("---------------------------------------------------------------");
-    System.out.println("IFCE - Prof.Ronaldo Ramos 🎷 - PP - Bridge ");
+    System.out.println(" Bridge ");
     System.out.println("---------------------------------------------------------------");
     System.out.println(" ");
 
