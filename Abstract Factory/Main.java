@@ -1,20 +1,12 @@
-/*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-  * *Comentários: Código implementando o PP do tipo "Abstract Factory"
+/*********************************************************************************************
+                                      "Abstract Factory"
   *********************************************************************************************
   * *Obs. Não pus tantos comentários dessa vez porque acho que o código está bem organizado
   *  e fácil de entender o que faz, até porque como havia dito é uma estrutura simples que constrói carros dos tipos Sedan ou Truck(Picape) em modelos ou da Ford ou da Dodge com especificações dadas pelo usuário.
   *********************************************************************************************
   * * (Definindo o PP - "Factory") - Segundo a definição da Wikipédia: 
   * O Abstract Factory Pattern provê uma maneira de encapsular um grupo de Factories que tem um tema em comum sem especificar suas classes concretas.
-  *********************************************************************************************
-	*/
+  **********************************************************************************************/
 
 public class Main {
 
@@ -35,7 +27,7 @@ public class Main {
 
     System.out.println(" ");
     System.out.println("---------------------------------------------------------------");
-    System.out.println("IFCE - Prof.Ronaldo Ramos 🎷 - PP - Abstract Factory (Exemplo) ");
+    System.out.println("Abstract Factory (Exemplo) ");
     System.out.println("---------------------------------------------------------------");
     System.out.println(" ");
     System.out.println("Criando modelos de carros e suas especificações...\n");
