@@ -1,12 +1,3 @@
-/*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-	*/
 
 //Por ser do tipo da classe decorator podemos juntá-la a uma outra classe de tipo igual e convergir seus atributos na mesma!
 public class Refrigerante extends CoquetelDecorator {
