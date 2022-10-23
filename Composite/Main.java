@@ -1,18 +1,11 @@
-/*
+
+  /* *Comentários:  "Composite"
   *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-  * *Comentários: Código implementando o PP do tipo "Composite"
-  *********************************************************************************************
-  * *Obs. Esse PP deixa o cliente tratar objetos individuais de maneira uniforme. Aqui, esse 'objetos'
+  * *Obs. Esse Programa deixa o cliente tratar objetos individuais de maneira uniforme. Aqui, esse 'objetos'
   tomam forma nas classes 'Arquivos' onde a classe 'ArquivoComposite.java' é quem trata dessa 'uniformidade'
   entre tais objetos individualmente.
   *********************************************************************************************
-  * * (Definindo o PP - "Composite") - Segundo a definição da Wikipédia: 
+  * * ("Composite") - Segundo a definição da Wikipédia: 
   * Em engenharia de software, o Composite Patter é um design pattern de particionamento. O Composite Pattern descreve que um grupo de objetos deverá ser tratado da mesma maneira que apenas uma instancia de um objeto. A intensão de um Composite é "compor" objetos em estrutura de arvore representando parte de uma hierarquia. Implementar o Composite Patter é permitir que clientes tratem objetos individuais e composições de maneira uniforme.
   *********************************************************************************************
 	*/
@@ -22,7 +15,7 @@ class Main {
 
     System.out.println(" ");
     System.out.println("---------------------------------------------------------------");
-    System.out.println("IFCE - Prof.Ronaldo Ramos 🎷 - PP - Composite ");
+    System.out.println(" Composite ");
     System.out.println("---------------------------------------------------------------");
     System.out.println(" ");
 
