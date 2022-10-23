@@ -1,13 +1,5 @@
 /*
   *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-  *
-  *
   * Nossa classe 'Delegator' que vai delegar as implementações da classe 'Impressora', que são as classes
   * 'ImpressoraHP', 'ImpressoraCanon' e 'ImpressoraEpson'. Isso vai nos garantir duas coisas:
   *
