@@ -1,16 +1,8 @@
 /*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-	*
-  * É a 'implementação particular' de um Pool que gerencia um Produto específico: Aqui o 
-  'produto' são os funcionários que criamos e inserimos nesse 'pool'
+  *
+  * É a 'implementação particular' de um Pool que gerencia um Produto específico: Aqui o 'produto' são os funcionários que criamos e inserimos nesse 'pool'
   * 
-  */
+*/
 
 import java.util.ArrayList;
 import java.util.List;
