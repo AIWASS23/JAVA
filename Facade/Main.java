@@ -1,19 +1,11 @@
-/*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-  * *Comentários: Código implementando o PP do tipo "Façade"
+/**********************************************************************************************
+  * *Comentários: Código implementando o PP do tipo "Facade"
   *********************************************************************************************
   * *Obs. Já que esse PP provê uma interface simples para um "subsistema complexo" decidiu-se implementar um código que trabalhe com uma representação "mais simplificada" de um sistema que agrega uma série de outros sistemas em seu funcionamento (como é comum de se ver em classe do tipo "Library"), temos várias classes que represetam aqui sistemas dos mais diversos tipos e funções (escolhi coisas simples e do cotidiano que fossem "fáceis" de perceber a atuação desse PP neles) e uma classe ("SistemasFacade.java") que proporciona uma "inerface de código" mais organizada e simples ao desenvolvedor que for trabalhar nas interações e oganizações de tais classes. 
   *********************************************************************************************
-  * * (Definindo o PP - "Façade") - Segundo a definição da Wikipédia: 
+  * * (Definindo o PP - "Facade") - Segundo a definição da Wikipédia: 
   * Uma Facade é um objeto que provê uma interface simples para uma grande porção de código como uma Class Library.
-  *********************************************************************************************
-	*/
+  **********************************************************************************************/
 
 public class Main {
 
@@ -21,7 +13,7 @@ public class Main {
 
     System.out.println(" ");
     System.out.println("---------------------------------------------------------------");
-    System.out.println("IFCE - Prof.Ronaldo Ramos 🎷 - PP - Façade ");
+    System.out.println(" Facade ");
     System.out.println("---------------------------------------------------------------");
     System.out.println(" ");
 
@@ -46,7 +38,7 @@ public class Main {
     System.out.println("||||||||||||||||| - 100%");
     System.out.println(" ");
 
-		System.out.println(">--------[  Façade - Utilizando subsistemas ]:");
+		System.out.println(">--------[  Facade - Utilizando subsistemas ]:");
     System.out.println(" ");
 		fachada.renderizarImagem("imagem.png");
 		fachada.reproduzirAudio("teste.mp3");
