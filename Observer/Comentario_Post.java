@@ -1,20 +1,9 @@
-/*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-                             
-    *Comentário:
-  
+   /*
+    * Comentário:
     * Abaixo, códigos de basicamente TUDO que compõem nossa classe 'principal' de 'dados', por  
     * assim dizer, que é o comentário(e alguns dos elementos que o formam) de um determinado
     * 'Post'.
-  
-  *********************************************************************************************
-  */
+    */
 
 public class Comentario_Post {
 	
