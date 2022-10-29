@@ -1,19 +1,11 @@
-/*
+/*********************************************************************************************
+  * *Comentários: Código implementando o Projeto do tipo "flyweight"
   *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
+  * *Obs. Esse Projeto (que traduzido literalmente é 'Peso-Mosca' kkkkk,por isso fiz a 'piadinha' com os emojis de moscas nos println) é usado para minimizar o 'uso de memoria' ou gasto computacional, compartilhando o máximo que der com objetos semelhantes(aqui são as classes: Imagem, Ponto e Sprite que interagem entre isso através de mais duas outras classes que interagem de acordo com o padrão aqui abordado).
   *********************************************************************************************
-  * *Comentários: Código implementando o PP do tipo "flyweight"
-  *********************************************************************************************
-  * *Obs. Esse PP (que traduzido literalmente é 'Peso-Mosca' kkkkk,por isso fiz a 'piadinha' com os emojis de moscas nos println) é usado para minimizar o 'uso de memoria' ou gasto computacional, compartilhando o máximo que der com objetos semelhantes(aqui são as classes: Imagem, Ponto e Sprite que interagem entre isso através de mais duas outras classes que interagem de acordo com o padrão aqui abordado).
-  *********************************************************************************************
-  * * (Definindo o PP - "flyweight") - Segundo a definição da Wikipédia: 
+  * * ("flyweight") - Segundo a definição da Wikipédia: 
   * Em programa de computadores, Flyweight é um padrão de design de software. Um Flyweight Pattern é um objeto que minimiza o uso de memória, compartilhando o máximo possível de indormações com objetos similares; Esta é uma maneira de usar objetos em larga escala quando uma simples representação repedida poderia usar uma iniceitavel quantidade de memória.
-  *********************************************************************************************
-	*/
+  **********************************************************************************************/
 
 class Main {
 
@@ -21,7 +13,7 @@ class Main {
 
     System.out.println(" ");
     System.out.println("---------------------------------------------------------------");
-    System.out.println("IFCE - Prof.Ronaldo Ramos 🎷 - PP - Flyweight ");
+    System.out.println(" Flyweight ");
     System.out.println("---------------------------------------------------------------");
     System.out.println(" ");
 
