@@ -1,12 +1,5 @@
 /*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-  * *Comentários: Código implementando o PP do tipo "Mediator"
+  * *Comentários: "Mediator"
   *********************************************************************************************
   * *Obs. Esse padrão adiciona um 'objeto de terceiros' (chamado de mediador) para controlar a 
   interação entre os dois objetos (chamados de colegas). Esse processo ajyda na redução do '
@@ -16,7 +9,7 @@
   esse 'controle' entre as classes 'Colleages' implementadas, que simulam um chat entre pessoas
   com diferentes aparelhos conversando entre si.
   *********************************************************************************************
-  * * (Definindo o PP - "Mediator") - Segundo a definição da Wikipédia: 
+  * * ("Mediator") - Segundo a definição da Wikipédia: 
   * Na engenharia de software, o pattern mediator define um objeto que encapsula como conjunto
    de objetos interagem. Este pattern um pattern comportamental (behavioral pattern), pois ele 
    pode alterar o comportamento do programa.
@@ -29,7 +22,7 @@ class Main {
 
     System.out.println(" ");
     System.out.println("---------------------------------------------------------------");
-    System.out.println("IFCE - Prof.Ronaldo Ramos 🎷 - PP - Mediator ");
+    System.out.println(" Mediator ");
     System.out.println("---------------------------------------------------------------");
     System.out.println(" ");
 
