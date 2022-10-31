@@ -1,11 +1,4 @@
 /*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
   * *Comentários: Código implementando o PP do tipo "Private Class Data"
   *********************************************************************************************
   * *Obs. Esse padrão busca reduzir a exposição de atributos limitando sua 'visibilidade' em 
@@ -18,7 +11,7 @@
   sopa. O método de 'degustação/Provar' do ensopado altera os membros privados do aula de 
   guisado/Sopa. 
   *********************************************************************************************
-  * * (Definindo o PP - "Private Class Data") - Segundo a definição da Wikipédia: 
+  * * ("Private Class Data") - Segundo a definição da Wikipédia: 
   * É um padrão de design em programação de computador usado para 'encapsular atributos' de uma 
   classe para sua manipulação. Ele funciona 'extraindo' uma classe de dados para a classe de 
   destino e fornecendo à instância da classe de destino uma instância da classe de dados extraída.
@@ -29,9 +22,6 @@
 
     - Mais informações no link (Em inglês) abaixo: 
       https://en.wikipedia.org/wiki/Private_class_data_pattern#Applicability
-
-  - Obs. Como o professor disse, realmente é difícil achar matrerial dese padrão, apesar de não ser
-  uma estratégia 'tão complicada' kkkk (Fazer o que né?).
   *********************************************************************************************
 	*/
 
@@ -40,7 +30,7 @@ class Main {
 
     System.out.println(" ");
     System.out.println("---------------------------------------------------------------");
-    System.out.println("IFCE - Prof.Ronaldo Ramos 🎷 - PP - Private Class Data ");
+    System.out.println(" Private Class Data ");
     System.out.println("---------------------------------------------------------------");
     System.out.println(" ");
     System.out.println("👨‍🍳  ~ \"Quem quer sopa?\"  ");
