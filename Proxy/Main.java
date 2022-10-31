@@ -1,12 +1,5 @@
-/*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-  * *Comentários: Código implementando o PP do tipo "Proxy"
+
+  /* *Comentários: Código implementando o Projeto do tipo "Proxy"
   *********************************************************************************************
   * *Obs. Usando esse padrão de projeto (PP), uma classe irá, basicamente, representar a 
   'funcionalidade' de outra classe. Fiz dessa vez uma exemplo mais simples que só usa de duas 
@@ -26,7 +19,7 @@ class Main {
 
     System.out.println(" ");
     System.out.println("---------------------------------------------------------------");
-    System.out.println("IFCE - Prof.Ronaldo Ramos 🎷 - PP - Proxy ");
+    System.out.println(" Proxy ");
     System.out.println("---------------------------------------------------------------");
     System.out.println(" ");
 
