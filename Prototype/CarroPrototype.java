@@ -1,12 +1,3 @@
-/*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-	*/
 
 // Apartir da classe "CarroPrototype.java" posso "clonar" a classe e seus métodos/atributos sem ter repetoções de instâncias excessivamente, que é a vantagem maior desse tipo de padrão de projeto!
 //Por isso para realizar tal "clonagem" nada melhor do que essa classe ser abstrata!

@@ -1,12 +1,3 @@
-/*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-	*/
 
 //Classe exemplo, que dever ser criada uma vez e nada mais do que isso, objetos do tipo CarroPrototype é que irão "cloná-la" em caso de se necessitar mais objetos dela!
 public class FiestaPrototype extends CarroPrototype {
