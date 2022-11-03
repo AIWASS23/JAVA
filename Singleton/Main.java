@@ -1,11 +1,11 @@
 /*
   *********************************************************************************************
-  * *Comentários: Código implementando o Projeto do tipo "Singleton"
+  * *Comentários: "Singleton"
   *********************************************************************************************
-  * *Obs. Mesmo só utilizando de duas simples classe fiz questão de explicar ess padrão porque é difícel encontrar implementações dele por aí afinal o principal uso do padrão se dá quando é preciso garantir que apenas um objeto de uma determinada classe seja criado no código em desenvolvimento. Aqui
+  * *Obs. Mesmo só utilizando de duas simples classe fiz questão de explicar ess padrão porque é difícil encontrar implementações dele por aí afinal o principal uso se dá quando é preciso garantir que apenas um objeto de uma determinada classe seja criado no código em desenvolvimento. Aqui
   *********************************************************************************************
   * * ("Singleton") - Segundo a definição da Wikipédia: 
-  * Em engenharia de software, o padrão singleton é um padrão de projeto que restringe a instanciação de uma classe para um único objeto. Isto é útil quando exatamente um objeto é necessário para coordenar ações por todo o sistema..
+  * Em engenharia de software, o padrão singleton é um projeto que restringe a instanciação de uma classe para um único objeto. Isto é útil quando exatamente um objeto é necessário para coordenar ações por todo o sistema..
   *********************************************************************************************
 	*/
 

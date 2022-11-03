@@ -1,13 +1,5 @@
 /*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-
-  *Comentários:
+  Comentários:
 
   // A interface é implementada por muitas outras
   // subclasses que permitem vários tipos de mudanças
@@ -20,9 +12,6 @@
   // EVITA duplicações/repetições desnecessárias de código.
 
   // Aqui fazemos uso de 'decoupling' : Encapsular um conceito que varia/muda.
-
-  *********************************************************************************************
-
 	*/
 
 public interface TocaInstrumento {
