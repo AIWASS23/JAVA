@@ -1,12 +1,3 @@
-/*
-  *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-	*/
 
 // Nosso código que implementa o padrão Singeton, de forma "simple e enxuta" o padrão pode ser
 // implementado como a classe abaixo, que leva o nome do padrão como seu.

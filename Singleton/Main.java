@@ -1,16 +1,10 @@
 /*
   *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
-  *********************************************************************************************
-  * *Comentários: Código implementando o PP do tipo "Singleton"
+  * *Comentários: Código implementando o Projeto do tipo "Singleton"
   *********************************************************************************************
   * *Obs. Mesmo só utilizando de duas simples classe fiz questão de explicar ess padrão porque é difícel encontrar implementações dele por aí afinal o principal uso do padrão se dá quando é preciso garantir que apenas um objeto de uma determinada classe seja criado no código em desenvolvimento. Aqui
   *********************************************************************************************
-  * * (Definindo o PP - "Singleton") - Segundo a definição da Wikipédia: 
+  * * ("Singleton") - Segundo a definição da Wikipédia: 
   * Em engenharia de software, o padrão singleton é um padrão de projeto que restringe a instanciação de uma classe para um único objeto. Isto é útil quando exatamente um objeto é necessário para coordenar ações por todo o sistema..
   *********************************************************************************************
 	*/
@@ -31,7 +25,7 @@ class Main
   
         System.out.println(" ");
         System.out.println("---------------------------------------------------------------");
-        System.out.println("IFCE - Prof.Ronaldo Ramos 🎷 - PP - Singleton (Exemplo - simples) ");
+        System.out.println(" Singleton (Exemplo - simples) ");
         System.out.println("---------------------------------------------------------------");
         System.out.println(" ");
 
