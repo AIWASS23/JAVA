@@ -1,16 +1,9 @@
 /*
+  * *Comentários: "Visitor"
   *********************************************************************************************
-  * ( )[ ][ ]                                                                                 *
-  * [ ][ ]                                                                                    *
-  * [ ][ ][ ]                                                                                 *
-  * [ ][ ]    - IFCE - Padrões de Projetos - 2021.1 - Prof.Ronaldo 🎷                         *
-  *                                                                                           *
+  * *Obs. O programa permite que você adicione operações adicionais a objetos sem ter que modificá-los. Aqui, fazemos isso para diversas ramificações de 'árvores binárias'.
   *********************************************************************************************
-  * *Comentários: Código implementando o PP do tipo "Visitor"
-  *********************************************************************************************
-  * *Obs. Esse 'PP' permite que você adicione operações adicionais a objetos sem ter que modificá-los. Aqui, fazemos isso para diversas ramificações de 'árvores binárias'.
-  *********************************************************************************************
-  * * (Definindo o PP - "Visitor") - Segundo a definição da Wikipédia: 
+  * * ("Visitor") - Segundo a definição da Wikipédia: 
   * Na programação orientada a objetos e engenharia de software, o padrão de design visitor é uma maneira de separar um algoritmo da estrutura de um objeto no qual ele opera. Um resultado prático dessa separação é a habilidade de adicionar novas operações a objetos existentes sem ter que modificar suas estruturas. É uma maneira de seguir o princípio de aberto/fechado.
   *********************************************************************************************
 	*/
@@ -21,7 +14,7 @@ class Main {
 
     System.out.println(" ");
     System.out.println("---------------------------------------------------------------");
-    System.out.println("IFCE - Prof.Ronaldo Ramos 🎷 - PP - Visitor ");
+    System.out.println(" Visitor ");
     System.out.println("---------------------------------------------------------------");
     System.out.println(" ");
 
